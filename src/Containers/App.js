@@ -3,7 +3,9 @@ import '../App.css';
 import Persons from '../Components/Persons/Persons';
 import Cockpit from '../CockPit/Cockpit'
 
-/*Commiiting chnagr for github**/
+/*Commiiting chnagr for github
+
+**/
 class App extends Component {
   state ={
     persons:[
